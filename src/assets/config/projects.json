@@ -1,0 +1,120 @@
+{
+    "allProjects": 
+    [
+        {
+            "header": "Mobile Apps & Games",
+            "list": [
+                {
+                    "name": "Mini Puzzle",
+                    "desc": "An old school pocket puzzle game where players can use images from device to play with, compete against their friends' score or can try to beat their scores. It supports multiple themes and difficulty levels.",
+                    "url": "https://play.google.com/store/apps/details?id=in.barick.cordova.minipuzzle",
+                    "linkTxt": "Get it on Google Play",
+                    "techStack": ["HTML5", "Canvas", "CSS3", "Javascript", "jQuery", "Cordova"],
+                    "img": ["assets/img/apps/mini-puzzle/1.png", "assets/img/apps/mini-puzzle/2.png", "assets/img/apps/mini-puzzle/3.png", "assets/img/apps/mini-puzzle/4.png", "assets/img/apps/mini-puzzle/5.png", "assets/img/apps/mini-puzzle/6.png", "assets/img/apps/mini-puzzle/7.png"]
+                },
+                {
+                    "name": "Jumble Fixer",
+                    "desc": "An advanced and intelligent (as in, it can give you hint if you are stuck) jigsaw puzzle game, featuring multiple images to play with, multiple levels of difficulty to mater and support for multiple languages...",
+                    "url": "https://play.google.com/store/apps/details?id=in.barick.jumblefixer1",
+                    "linkTxt": "Get it on Google Play",
+                    "techStack": ["HTML5", "CSS3", "Javascript", "jQuery", "Cordova"],
+                    "img": ["assets/img/apps/jumble-fixer/1.png", "assets/img/apps/jumble-fixer/2.png", "assets/img/apps/jumble-fixer/3.png", "assets/img/apps/jumble-fixer/4.png", "assets/img/apps/jumble-fixer/5.png", "assets/img/apps/jumble-fixer/6.png"]
+                },
+                {
+                    "name": "Knexsol Notes",
+                    "desc": "A simple yet efficient and intuitive note taking app with features like creating, saving, editing notes, searching and sorting them, categorizing them by creating notebooks and then sharing the notes using various sharing methods available in android devices.",
+                    "url": "https://play.google.com/store/apps/details?id=in.barick.cordova.minipuzzle",
+                    "linkTxt": "Get it on Google Play",
+                    "techStack": ["Angular", "TypeScript", "Material CSS", "Cordova"],
+                    "img": ["assets/img/apps/knexsol-notes/1.PNG", "assets/img/apps/knexsol-notes/2.PNG", "assets/img/apps/knexsol-notes/3.PNG", "assets/img/apps/knexsol-notes/4.PNG", "assets/img/apps/knexsol-notes/5.png", "assets/img/apps/knexsol-notes/6.PNG"]
+                }
+            ]
+        },
+
+
+        {
+            "header": "Fun & Games",
+            "list": [
+                {
+                    "name": "iGalaxy",
+                    "desc": "A personal website design that puts you in the central of the galaxy where all the planets that represent different aspects of you, rotate around you...",
+                    "url": "http://barick.in/galaxy/",
+                    "linkTxt": "Visit website",
+                    "techStack": ["HTML5", "CSS3", "Javascript", "Trigonometry"],
+                    "img": ["assets/img/apps/galaxy/galaxy.png"]
+                },
+                {
+                    "name": "Barick-Tilefy",
+                    "desc": "A Windows 8.1 / Windoes 10 / Windows Universal Metro Style Responsive Web Plugin",
+                    "url": "https://github.com/codotronix/barick-tilefy",
+                    "linkTxt": "Get it on Github",
+                    "techStack": ["HTML5", "CSS3", "Javascript", "jQuery", "hand.js"],
+                    "img": ["assets/img/apps/barick-tilefy/RepositionTiles.gif"]
+                },
+                {
+                    "name": "CXGL",
+                    "desc": "Codotronix Game Library (or CXGL in short) is a very minimalistic game development Library for browsers. It is a Javascript based Library and it limits its scope in Javascript only. Hence it can be used with DOM / SVG / Canvas or anything. It is a very small library and currently the minified JS file is only 4 KB in size. It provides basic functionalities like, creating / grouping / querying game objects, binding functions to keyboard keys, a game ticker for repititive events, collision detection",
+                    "url": "http://barick.in/cxgl/",
+                    "linkTxt": "Visit website",
+                    "techStack": ["HTML5", "CSS3", "Javascript", "Mathematics"],
+                    "img": ["assets/img/apps/cxgl/1.png", "assets/img/apps/cxgl/2.png", "assets/img/apps/cxgl/3.png", "assets/img/apps/cxgl/4.png", "assets/img/apps/cxgl/5.png", "assets/img/apps/cxgl/6.png"]
+                },
+                {
+                    "name": "Beware of Boxes",
+                    "desc": "In this world of moving boxes, you are a living box and there are lots of dead zombie boxes roaming around. You have to start from one safe house and reach another. You can adjust the number of enemies the by specifying the number at the url (see enemy=10, now change it to any number of your choice...)",
+                    "url": "http://barick.in/bob/?enemy=10",
+                    "linkTxt": "Play the game",
+                    "techStack": ["HTML5", "CSS3", "Javascript", "CXGL"],
+                    "img": ["assets/img/apps/bob/1.png", "assets/img/apps/bob/2.png", "assets/img/apps/bob/3.png", "assets/img/apps/bob/4.png", "assets/img/apps/bob/5.png"]
+                },
+                {
+                    "name": "Tankgular",
+                    "desc": "This is a practice tank battle arena, where your blue tank fights against the evil red tanks. Since this is a practice arena, you can add as many enemy tanks, whenever you want...",
+                    "url": "http://barick.in/Tankgular/",
+                    "linkTxt": "Play the game",
+                    "techStack": ["HTML5", "CSS3", "AngularJS"],
+                    "img": ["assets/img/apps/tankgular/1.png", "assets/img/apps/tankgular/2.png"]
+                },
+                {
+                    "name": "Asteroid Attack",
+                    "desc": "Some deadly meteors are heading towards earth and on impact they can move the earth out of its orbit. Only YOU stand between our planet and them. Shoot 'em up before they get close to earth...",
+                    "url": "http://barick.in/Asteroid-Attack/play.html",
+                    "linkTxt": "Play the game",
+                    "techStack": ["HTML5", "CSS3", "Javascript", "CXGL"],
+                    "img": ["assets/img/apps/asteroidattack/1.png"]
+                },
+                {
+                    "name": "Go Goltu, Go",
+                    "desc": "WIP... Little Goltu must run for his life to save himself from angry Vouvou...",
+                    "url": "http://barick.in/Dourio/Final/",
+                    "linkTxt": "Play the game",
+                    "techStack": ["HTML5", "CSS3", "Javascript", "Inkscape"],
+                    "img": ["assets/img/apps/goltu/800x400.png"]
+                }
+            ]
+        },
+
+
+        {
+            "header": "Websites",
+            "list": [
+                {
+                    "name": "UMA",
+                    "desc": "Utsab Melbourne Association is a non-profit charitable and cultural organisation and is formed by a group of cheerful people based out of Melbourne. Join us to celebrate the traditional festivals of India and Bengal. We are here to bring you the cultural feel of Bengal.",
+                    "url": "http://utsavmelbourneassociation.org/home",
+                    "linkTxt": "Visit website",
+                    "techStack": ["HTML5", "CSS3", "Angular", "Typescript"],
+                    "img": ["assets/img/apps/uma/uma-logo-big.jpg"]
+                },
+                {
+                    "name": "Knexsol",
+                    "desc": "Knexsol is next generation learning platform where where learning is pure fun, exams are like challenging games, tutors are not yet dead zombies and knowledge still has her soul.",
+                    "url": "https://www.knexsol.com/p/home.html",
+                    "linkTxt": "Visit website",
+                    "techStack": ["HTML5", "CSS3", "Angular", "Typescript", "Node.js", "Firebase"],
+                    "img": ["assets/img/apps/knexsol/knexsol-logo-with-soft-shadow-200v.png"]
+                }
+            ]
+        }
+    ]
+}
