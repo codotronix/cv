@@ -96,8 +96,24 @@
 
 
         {
-            "header": "Websites",
+            "header": "Utils & Web",
             "list": [
+                {
+                    "name": "Barix",
+                    "desc": "A small lightweight jquery like general purpose utility library",
+                    "url": "https://github.com/codotronix/Barix",
+                    "linkTxt": "Get it on Github",
+                    "techStack": ["Typescript", "Javascript"],
+                    "img": ["assets/img/apps/barix/barix.png"]
+                },
+                {
+                    "name": "FreeFlow",
+                    "desc": "A free flowing svg coponents utility for making flowcharts or any such control flow visualisations featuring import / export option as json tree. It is currently a work in progress.",
+                    "url": "https://freeflow.barick.in/",
+                    "linkTxt": "Visit website",
+                    "techStack": ["SVG", "Javascript", "HTML5", "CSS3"],
+                    "img": ["assets/img/apps/freeflow/1.png"]
+                },                
                 {
                     "name": "UMA",
                     "desc": "Utsab Melbourne Association is a non-profit charitable and cultural organisation and is formed by a group of cheerful people based out of Melbourne. Join us to celebrate the traditional festivals of India and Bengal. We are here to bring you the cultural feel of Bengal.",
@@ -113,6 +129,14 @@
                     "linkTxt": "Visit website",
                     "techStack": ["HTML5", "CSS3", "Angular", "Typescript", "Node.js", "Firebase"],
                     "img": ["assets/img/apps/knexsol/knexsol-logo-with-soft-shadow-200v.png"]
+                },
+                {
+                    "name": "React Shop",
+                    "desc": "A prototype shopping website in the making entirely with ReactJS, as an alternative to the famous affiliate marketing website Offersplus.in",
+                    "url": "http://barick.in/react-shop/",
+                    "linkTxt": "Visit website",
+                    "techStack": ["ReactJS", "Javascript", "HTML5", "CSS3"],
+                    "img": ["assets/img/apps/reactshop/1.png"]
                 }
             ]
         }
